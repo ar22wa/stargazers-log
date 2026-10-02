@@ -1,0 +1,30 @@
+[
+  {
+    "full_name": "facebook/react",
+    "description": "The library for web and native user interfaces.",
+    "url": "https://github.com/facebook/react",
+    "language": "JavaScript",
+    "starred_at": "2026-09-24"
+  },
+  {
+    "full_name": "microsoft/vscode",
+    "description": "Code editing. Redefined.",
+    "url": "https://github.com/microsoft/vscode",
+    "language": "TypeScript",
+    "starred_at": "2026-09-18"
+  },
+  {
+    "full_name": "fastapi/fastapi",
+    "description": "A modern, fast web framework for building APIs with Python.",
+    "url": "https://github.com/fastapi/fastapi",
+    "language": "Python",
+    "starred_at": "2026-09-09"
+  },
+  {
+    "full_name": "neovim/neovim",
+    "description": "Vim-fork focused on extensibility and usability.",
+    "url": "https://github.com/neovim/neovim",
+    "language": "Lua",
+    "starred_at": "2026-08-29"
+  }
+]
